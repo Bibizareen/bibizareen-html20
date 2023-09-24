@@ -1,0 +1,121 @@
+.abcc{
+    background-color: blue;
+    color: aliceblue;
+    border-radius: 10px;
+}
+.abc{
+    background-color: lightgreen;
+    
+    color: aliceblue;
+    border-radius: 10px;
+}
+.main{
+    padding-top: 100px;
+    padding-left: 100px;
+    color: black;
+    position: relative;
+    bottom: 700px;
+   
+}
+.ab{
+    border-color: black;
+    background-color: aliceblue;
+    color: black;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+
+    
+}
+#im{
+    position: relative;
+    left: 50%;
+}
+.main2{
+    background-color: rgb(127, 255, 212);
+    height: 300px;
+    width: 1000px;
+}
+    div2{
+        background-color: lightgreen !important;
+        padding: 60px;
+        width: 90vw;
+        position: relative;
+        bottom: 650px;
+        left: 5vw;
+        top: -50px;
+        
+    }
+    .bt6{
+        padding: 15px;
+        margin-right: -10px;
+        background-color: rgb(82, 79, 79);
+        color: white;
+        border-radius: 5px;
+    }
+    .bt4{
+        padding: 15px; 
+        margin-right: -10px;
+      
+    }
+    .bt5{
+        padding: 15px; 
+        border-radius: 5px;
+        background-color: rgb(59, 55, 55) ;
+        color: white;
+    }
+    .bt7{
+        padding: 15px;
+        border: none ;
+        background-color: white;
+        border-radius: 10px;
+        margin: 20px;
+        position: relative;
+        bottom: 50px;
+    }
+    .bt7:hover{
+        border-radius: 6px;
+        background-color: rgb(59, 55, 55) ;
+        color: white;
+        transform: scale(1.1);
+        transition: 10ms;
+    }
+    .bt8{
+    margin-left: 380px;
+    background-color: rgb(70 ,147, 21)  ;
+padding: 15px;
+border: none ;
+border-radius: 10px;
+color: white;
+}
+.bt8:hover{
+    border-radius: 6px;
+
+    color: white;
+    transform: scale(1.1);
+    transition: 10ms;
+}
+    
+        
+.imgg{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.main3{
+    text-align: center;
+}
+.ii{
+    margin: 70px;
+}
+
+.icon{
+    height: 150px;
+    width: 150px;
+}
+
+.icons{
+    height: 100px;
+    width: 100px;
+}
